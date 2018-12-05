@@ -1,0 +1,81 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "description": "Lo mejor de la semana",
+      "title": "Destacados",
+      "playlist": [
+        {
+          "title": "¿Qué es responsive Design?",
+          "author": "Millertaker 1",
+          "type": "video",
+          "src": "http://clips.vorwaerts-gmbh.de/VfE_html5.mp4",
+          "id": "1"
+        },
+        {
+          "title": "Cómo optimzar la carga de un website",
+          "author": "Millertaker 2",
+          "type": "video",
+          "src": "http://peach.themazzone.com/durian/movies/sintel-1024-surround.mp4",
+          "id": "2"
+        },
+        {
+          "title": "Qué es Bitcoin",
+          "author": "Millertaker 3",
+          "type": "video",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "3"
+        },
+        {
+          "title": "Que pasó con HTML5",
+          "author": "Mr X",
+          "type": "video",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "4"
+        },
+        {
+          "title": "Lo mejor de Mejorando.la",
+          "author": "Homer Simpson",
+          "type": "video",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "5"
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "description": "Lo mejor para concentrarte",
+      "title": "Para programar",
+      "playlist": [
+        {
+          "title": "One more time",
+          "author": "Daft Punk",
+          "type": "video",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "6"
+        },
+        {
+          "title": "Midnight City",
+          "author": "M83",
+          "type": "video",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "7"
+        },
+        {
+          "title": "Solar Sailer",
+          "author": "Daft Punk",
+          "type": "video",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "8"
+        },
+        {
+          "title": "The social network",
+          "author": "The social network",
+          "type": "video",
+          "src": "http://download.blender.org/peach/bigbuckbunny_movies/BigBuckBunny_320x180.mp4",
+          "id": "9"
+        }
+      ]
+    }
+  ]
+}

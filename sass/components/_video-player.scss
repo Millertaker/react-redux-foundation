@@ -1,0 +1,14 @@
+.videoPlayer{
+  position: fixed;
+  height: 200px;
+  z-index: map-get($z-index, modal);
+  @include centerer-horizontal;
+
+  &__close-video{
+    display: block;
+    background: $cite-color;
+    color: $white;
+    font-weight: bold;
+    text-align: right;
+  }
+}

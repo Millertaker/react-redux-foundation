@@ -1,0 +1,23 @@
+#folders to be ignored in git
+node_modules
+credentials.js
+*~
+.DS_STORE
+devsrv/css/allmin.css
+devsrv/images/products
+devserv/css/allmin.css
+devserv/js/app.min.js
+devsrv/js/
+devsrv/cart/
+/images/
+devsrv/css/
+build
+coverage
+reports
+logs
+.nyc_output
+ngrok
+.env
+.specialcommads
+package-lock.json
+bower_components
